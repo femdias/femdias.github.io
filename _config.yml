@@ -12,7 +12,7 @@ title                    : "Felipe Macedo Dias"
 title_separator          : "-"
 name                     : &name "Felipe Macedo Dias"
 description              : &description "personal description"
-url                      : femdias.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://femdias.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "femdias/femdias.github.io"
 

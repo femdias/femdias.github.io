@@ -1,6 +1,6 @@
 ---
 title: "Organized Crime and Societal Dynamics: Evidence from Manaus, Brazil" (with Paula Pereda)
-collection: work_in_progress
+collection: publications
 permalink: /publication/Organized_Crime_FDN
 excerpt: 'Using Synthetic control methodology, we analyze the effects of the crime group Família do Norte on labor
 market dynamics, educational attainment, and health outcomes.'

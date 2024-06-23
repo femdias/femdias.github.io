@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Predoctoral Research Fellow at Cornell University CIDER and a Master’s candidate in Economics at the Vancouver School of Economics at the University of British Columbia (UBC). I did my Bachelor in Economics at the University of São Paulo (FEA-USP). My research interests are development economics and applied microeconomics. My CV is available [here](https://femdias.github.io/files/CV Felipe Macedo Dias.pdf)
+I'm a Predoctoral Research Fellow at Cornell University's CIDER and a Master’s candidate in Economics at the Vancouver School of Economics at the University of British Columbia (UBC). I did my Bachelor in Economics at the University of São Paulo (FEA-USP). My research interests are development economics and applied microeconomics. My CV is available [here](https://femdias.github.io/files/CV Felipe Macedo Dias.pdf)
 
 

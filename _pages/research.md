@@ -6,21 +6,28 @@ author_profile: true
 ---
 
 
-<h2>Working Papers</h2>
+#<h2>Working Papers</h2>
 
-[What Does Federal Oversight Do to Policing and Public Safety? Evidence from Seattle](https://romainecampbell.github.io/files/Campbell_federal_oversight.pdf).
-
-[The ‘Gorilla in the Closet:’ Regulatory Federalism in Environmental Enforcement](http://jenna-anders.github.io/files/ac_epa.pdf), *with [Jenna Anders](http://www.jennaanders.com/)*.
-
-[Investigator Racial Diversity and Clinical Trial Participation](https://www.nber.org/papers/w31732), *with Marcella Alsan, Lukas Leister, and Ayotomiwa Ojo*. NBER Working Paper 31732.
-
-[Spillover Effects at School: How Black Teachers Affect their White Peers’ Racial Competency](https://www.nber.org/papers/w31847), *with Seth Gershenson, Constance A. Lindsay, Nicholas W. Papageorge, and Jessica H. Rendon*. NBER Working Paper 31847. IZA Discussion Paper 16258.
-
-Officer Language and Suspect Race: A Text Analysis of Police Reports, *with Connor Redpath*.
-
+#[title](https://link).
 
 <h2>Works in Progress</h2>
 
 Can Diversity Improve Equity? Achieving Racial Parity in Leader Assessment of Minority Team Members, *with Aaron Phipps*.
 
 The Impact of Education on Successful Re-entry, *with Logan Lee*.
+
+
+**Criminal power vacuum: The Effect of of Ecuador’s Drug Lord’s Murder on Homicides**
+✧ Utilizing a novel dataset tracking criminal organization presence over time in Ecuador, I investigate the
+impact of the murder of the leader of the largest Ecuadorian gang on homicide rates.
+
+
+**Organized Crime and Societal Dynamics: Evidence from Manaus, Brazil**, with Paula Pereda
+✧ Using Synthetic control methodology, we analyze the effects of the crime group Família do Norte on labor
+market dynamics, educational attainment, and health outcomes.
+
+
+**Was inflation higher in regions that benefited most from the Emergency Aid program?**
+✧ Building on my bachelor thesis, this research seeks to study the effects of the Auxílio Emergencial
+(Emergency Aid) program on the prices of food, using a DiD estimator with continuous treatment and a
+panel dataset of geolocalized prices and beneficiaries in the municipality of São Paulo.

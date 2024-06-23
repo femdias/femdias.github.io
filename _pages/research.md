@@ -9,18 +9,18 @@ author_profile: true
 
 **Criminal power vacuum: The Effect of of Ecuador’s Drug Lord’s Murder on Homicides**
 
-✧ Utilizing a novel dataset tracking criminal organization presence over time in Ecuador, I investigate the
+• Utilizing a novel dataset tracking criminal organization presence over time in Ecuador, I investigate the
 impact of the murder of the leader of the largest Ecuadorian gang on homicide rates.
 
 
 **Organized Crime and Societal Dynamics: Evidence from Manaus, Brazil**, with Paula Pereda
 
-✧ Using Synthetic control methodology, we analyze the effects of the crime group Família do Norte on labor
+• Using Synthetic control methodology, we analyze the effects of the crime group Família do Norte on labor
 market dynamics, educational attainment, and health outcomes.
 
 
 **Was inflation higher in regions that benefited most from the Emergency Aid program?**
 
-✧ Building on my bachelor thesis, this research seeks to study the effects of the Auxílio Emergencial
+• Building on my bachelor thesis, this research seeks to study the effects of the Auxílio Emergencial
 (Emergency Aid) program on the prices of food, using a DiD estimator with continuous treatment and a
 panel dataset of geolocalized prices and beneficiaries in the municipality of São Paulo.

@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /research/
+permalink: /codes_datasets/
 author_profile: true
 ---
 

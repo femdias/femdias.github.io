@@ -17,7 +17,7 @@ A code from scraping Correios (Brazilian public post office) website to extract 
 <h2>Datasets</h2>
 
 [Educational Performance Rates per municipality from INEP (1996-2005 and 2007-2022)](https://github.com/femdias/taxas-rendimento-escolar-inep) (In portuguese)
-Dataset of performance rates (approvel, fail and dropout rates of students) per municipality in Brazil, from 1999 to 2005 and from 2007 to 2022.
+Dataset of performance rates  (approval, failure and dropout rates of students) per municipality in Brazil, from 1999 to 2005 and from 2007 to 2022.
 
 
 

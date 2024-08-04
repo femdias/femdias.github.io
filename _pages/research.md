@@ -7,7 +7,7 @@ author_profile: true
 
 <h2>Works in Progress</h2>
 
-**Criminal power vacuum: The Effect of of Ecuador’s Drug Lord’s Murder on Homicides**
+**Criminal power vacuum: The Effect of Ecuador’s Drug Lord’s Murder on Homicides**
 
 • Utilizing a novel dataset tracking criminal organization presence over time in Ecuador, I investigate the
 impact of the murder of the leader of the largest Ecuadorian gang on homicide rates.

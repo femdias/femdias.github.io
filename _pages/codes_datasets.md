@@ -8,11 +8,14 @@ author_profile: true
 
 <h2>Useful Codes</h2>
 
+[Do-files for reading PISA 2012 raw files in Stata](https://github.com/femdias/PISA2012_Stata)
+This repository contains Stata do-files to read PISA 2012 raw files and an R script for automating do-file creation.
+
 [Geocoding Addresses with tidygeocoder and Google Maps](https://github.com/femdias/Geocoding-Addresses)
-An example of geocoding addresses with tidygeocoder in R and by web scraping Google Maps using Selenium in Python
+An example of geocoding addresses with tidygeocoder in R and by web scraping Google Maps using Selenium in Python.
 
 [Correios web scraping code to get addresses from zip codes](https://github.com/femdias/Correios-web-scraper)
-A code from scraping Correios (Brazilian public post office) website to extract complete address information from Correios website
+A code from scraping Correios (Brazilian public post office) website to extract complete address information from Correios website.
 
 <h2>Datasets</h2>
 

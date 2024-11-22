@@ -23,7 +23,7 @@ A code from scraping Correios (Brazilian public post office) website to extract 
 Dataset of performance rates  (approval, failure and dropout rates of students) per municipality in Brazil, from 1999 to 2005 and from 2007 to 2022. Obtained via Freedom of Information Law.
 
 [Brazil's CCTs by municipality](https://github.com/femdias/Brazil_CCTs_by_municipality/tree/main) 
-A dataset with the value and number of beneficiaries by municipality, month and program of all Brazil's Conditional Cash Transfers, from January 2013 to Dezember 2024.
+A dataset with the value and number of beneficiaries by municipality, month and program of all Brazil's Conditional Cash Transfers, from January 2013 to December 2024.
 
 
 

@@ -13,10 +13,13 @@ author_profile: true
 impact of the murder of the leader of the largest Ecuadorian gang on homicide rates.
 
 
+**Affirmative Action and Heterogeneous Efforts**, with Shubhangi Gupta
+• Using Brazil's Quotas Law, this project explores the heterogeneous effects of affirmative action on pre-college effort using DiD and Shift-Share IV approaches and administrative datasets.
+
+
 **Organized Crime and Societal Dynamics: Evidence from Manaus, Brazil**, with Paula Pereda
 
-• Using Synthetic control methodology, we analyze the effects of the crime group Família do Norte on labor
-market dynamics, educational attainment, and health outcomes.
+• Using Synthetic control methodology, we analyze the effects of the crime group Família do Norte on labor market dynamics, educational attainment, and health outcomes.
 
 
 **Was inflation higher in regions that benefited most from the Emergency Aid program?**

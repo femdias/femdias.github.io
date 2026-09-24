@@ -1,11 +1,19 @@
 ---
 layout: archive
-title: ""
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
 
-<h2>Works in Progress</h2>
+<h2>Published</h2>
+
+<!-- Working papers will be added here when available -->
+
+<h2>Work in Progress</h2>
+
+**Parental Preferences, Intrafamilial Early-Childhood Nutritional Allocations and Long-Run Adult Cognitive Skills and Health in Guatemala**, with Jere R. Behrman, John Hoddinott, and John A. Maluccio
+
+Working paper.
 
 **Criminal Power Vacuum: The Effect of Ecuador’s Drug Lord’s Murder on Violence**
 

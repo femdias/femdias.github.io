@@ -3,20 +3,11 @@ main:
   - title: "Research"
     url: /research/
 
-  #- title: "Talks"
-  #  url: /talks/    
-
-  #- title: "Teaching"
-  #  url: /teaching/    
-    
-  - title: "Useful Codes/Datasets"
-    url: /codes_datasets/
-        
-  #- title: "Blog Posts"
-  #  url: /year-archive/
-    
   - title: "CV"
     url: /files/CV Felipe Macedo Dias.pdf
+
+  - title: "Useful Codes/Datasets"
+    url: /codes_datasets/
     
   #- title: "Guide"
   #  url: /markdown/

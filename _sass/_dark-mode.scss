@@ -1,0 +1,92 @@
+/* Dark mode colors and theme toggle */
+
+.theme-toggle {
+  position: absolute;
+  top: 17px;
+  right: 0;
+  z-index: 10;
+  padding: 6px 10px;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  background: transparent;
+  color: $masthead-link-color;
+  cursor: pointer;
+  font-size: 0.8em;
+
+  &:hover {
+    color: $masthead-link-color-hover;
+  }
+
+  i {
+    margin-right: 4px;
+  }
+}
+
+html[data-theme="dark"] {
+  body,
+  .masthead,
+  .page__footer,
+  .sidebar,
+  .author__urls-wrapper button,
+  .greedy-nav .hidden-links {
+    background: #1e2227;
+    color: #e6e6e6;
+  }
+
+  .masthead,
+  .page__footer,
+  .sidebar,
+  .author__urls-wrapper button,
+  .greedy-nav .hidden-links {
+    border-color: #3b424a;
+  }
+
+  a,
+  .masthead a,
+  .theme-toggle {
+    color: #8ec5ff;
+  }
+
+  a:hover,
+  .masthead a:hover,
+  .theme-toggle:hover {
+    color: #c3e0ff;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  .author__name,
+  .page__title {
+    color: #ffffff;
+  }
+
+  hr,
+  table,
+  th,
+  td,
+  .author__urls {
+    border-color: #3b424a;
+  }
+
+  blockquote,
+  pre,
+  code,
+  .notice {
+    background: #292f36;
+    color: #e6e6e6;
+  }
+
+  .theme-toggle {
+    background: #292f36;
+  }
+}
+
+@media (max-width: 768px) {
+  .theme-toggle {
+    right: 45px;
+  }
+}

@@ -24,6 +24,10 @@
 
 html[data-theme="dark"] {
   body,
+  .masthead__inner-wrap,
+  .masthead__menu,
+  .greedy-nav,
+  .greedy-nav .visible-links,
   .masthead,
   .page__footer,
   .sidebar,
@@ -34,6 +38,8 @@ html[data-theme="dark"] {
   }
 
   .masthead,
+  .masthead__inner-wrap,
+  .greedy-nav,
   .page__footer,
   .sidebar,
   .author__urls-wrapper button,
@@ -43,12 +49,14 @@ html[data-theme="dark"] {
 
   a,
   .masthead a,
+  .greedy-nav a,
   .theme-toggle {
     color: #8ec5ff;
   }
 
   a:hover,
   .masthead a:hover,
+  .greedy-nav a:hover,
   .theme-toggle:hover {
     color: #c3e0ff;
   }

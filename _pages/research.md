@@ -7,11 +7,15 @@ author_profile: true
 
 <h2>Work in Progress</h2>
 
-**Parental Preferences, Intrafamilial Early-Childhood Nutritional Allocations and Long-Run Adult Cognitive Skills and Health in Guatemala**, with [Jere R. Behrman](https://penniur.upenn.edu/people/jere-behrman), [John Hoddinott](https://economics.cornell.edu/john-hoddinott), and [John A. Maluccio](https://sites.google.com/site/johnamaluccio/home)
+<div class="research-project" markdown="1">
 
-R&R at the *Journal of Labor Economics*.
+**Parental Preferences, Intrafamilial Early-Childhood Nutritional Allocations and Long-Run Adult Cognitive Skills and Health in Guatemala**, with [Jere R. Behrman](https://economics.sas.upenn.edu/people/jere-r-behrman), [John Hoddinott](https://economics.cornell.edu/john-hoddinott), and [John A. Maluccio](https://sites.google.com/site/johnamaluccio/home)
+
+*R&R, Journal of Labor Economics.*
 
 - Using more than 50 years of longitudinal data from Guatemala, this paper studies parents inequality aversion in allocating early-life nutrition, and difference concerns depending on birth order and sex of their children.
+
+</div>
 
 **Criminal Power Vacuum: The Effect of Ecuador’s Drug Lord’s Murder on Violence**
 

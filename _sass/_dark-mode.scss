@@ -3,7 +3,7 @@
 .theme-toggle {
   position: absolute;
   top: 17px;
-  right: 0;
+  right: 1em;
   z-index: 10;
   padding: 6px 10px;
   border: 1px solid $border-color;
@@ -24,6 +24,10 @@
 
 html[data-theme="dark"] {
   body,
+  #main,
+  .page,
+  .page__inner-wrap,
+  .page__content,
   .masthead__inner-wrap,
   .masthead__menu,
   .greedy-nav,
@@ -33,7 +37,7 @@ html[data-theme="dark"] {
   .sidebar,
   .author__urls-wrapper button,
   .greedy-nav .hidden-links {
-    background: #1e2227;
+    background-color: #1e2227 !important;
     color: #e6e6e6;
   }
 
@@ -41,6 +45,7 @@ html[data-theme="dark"] {
   .masthead__inner-wrap,
   .greedy-nav,
   .page__footer,
+  .page__footer footer,
   .sidebar,
   .author__urls-wrapper button,
   .greedy-nav .hidden-links {
@@ -95,6 +100,25 @@ html[data-theme="dark"] {
 
 @media (max-width: 768px) {
   .theme-toggle {
-    right: 45px;
+    right: 1em;
   }
+}
+
+.research-project {
+  p {
+    margin-bottom: 0.35em;
+  }
+
+  p:nth-of-type(2) {
+    color: #7b3f98;
+    font-style: italic;
+  }
+
+  ul {
+    margin-top: 0.2em;
+  }
+}
+
+html[data-theme="dark"] .research-project p:nth-of-type(2) {
+  color: #c084d8;
 }

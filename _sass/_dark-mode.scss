@@ -96,6 +96,13 @@ html[data-theme="dark"] {
   .theme-toggle {
     background: #292f36;
   }
+
+  .page__footer,
+  .page__footer footer,
+  .page__footer div,
+  .page__footer ul {
+    background: #1e2227 !important;
+  }
 }
 
 @media (max-width: 768px) {

@@ -23,6 +23,8 @@
 }
 
 html[data-theme="dark"] {
+  background-color: #1e2227 !important;
+
   body,
   #main,
   .page,
@@ -103,13 +105,6 @@ html[data-theme="dark"] {
   .page__footer ul {
     background: #1e2227 !important;
   }
-}
-
-html[data-theme="dark"] #site-footer,
-html[data-theme="dark"] #site-footer footer {
-  background: #1e2227 !important;
-  background-color: #1e2227 !important;
-  border-color: #3b424a !important;
 }
 
 @media (max-width: 768px) {

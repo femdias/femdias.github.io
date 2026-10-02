@@ -105,6 +105,13 @@ html[data-theme="dark"] {
   }
 }
 
+html[data-theme="dark"] #site-footer,
+html[data-theme="dark"] #site-footer footer {
+  background: #1e2227 !important;
+  background-color: #1e2227 !important;
+  border-color: #3b424a !important;
+}
+
 @media (max-width: 768px) {
   .theme-toggle {
     right: 1em;
